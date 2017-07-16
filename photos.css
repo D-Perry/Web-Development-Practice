@@ -1,0 +1,16 @@
+#one {
+background-color:purple;
+}
+
+#two {
+    background-color: red;
+}
+div {
+    width: 100px;
+    float: left;
+}
+img {
+    width: 30%;
+    float: left;
+    margin: 1.6%;
+}
